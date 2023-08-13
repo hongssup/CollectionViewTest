@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		36B030C82A87FDF1005B3890 /* SimpleListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B030C72A87FDF1005B3890 /* SimpleListViewController.swift */; };
 		36EBD30D2A83AF9300B6410C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36EBD30C2A83AF9300B6410C /* AppDelegate.swift */; };
 		36EBD30F2A83AF9300B6410C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36EBD30E2A83AF9300B6410C /* SceneDelegate.swift */; };
 		36EBD3112A83AF9300B6410C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36EBD3102A83AF9300B6410C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		36B030C72A87FDF1005B3890 /* SimpleListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleListViewController.swift; sourceTree = "<group>"; };
 		36EBD3092A83AF9300B6410C /* CollectionViewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionViewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36EBD30C2A83AF9300B6410C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36EBD30E2A83AF9300B6410C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				36EBD30C2A83AF9300B6410C /* AppDelegate.swift */,
 				36EBD30E2A83AF9300B6410C /* SceneDelegate.swift */,
 				36EBD3102A83AF9300B6410C /* ViewController.swift */,
+				36B030C72A87FDF1005B3890 /* SimpleListViewController.swift */,
 				36EBD3122A83AF9300B6410C /* Main.storyboard */,
 				36EBD3152A83AF9500B6410C /* Assets.xcassets */,
 				36EBD3172A83AF9500B6410C /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				36EBD3112A83AF9300B6410C /* ViewController.swift in Sources */,
 				36EBD30D2A83AF9300B6410C /* AppDelegate.swift in Sources */,
+				36B030C82A87FDF1005B3890 /* SimpleListViewController.swift in Sources */,
 				36EBD30F2A83AF9300B6410C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
