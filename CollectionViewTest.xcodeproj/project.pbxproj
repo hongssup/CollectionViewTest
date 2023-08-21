@@ -15,6 +15,7 @@
 		36EBD3142A83AF9300B6410C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36EBD3122A83AF9300B6410C /* Main.storyboard */; };
 		36EBD3162A83AF9500B6410C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36EBD3152A83AF9500B6410C /* Assets.xcassets */; };
 		36EBD3192A83AF9500B6410C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36EBD3172A83AF9500B6410C /* LaunchScreen.storyboard */; };
+		C44E8CE42A930D75008A1115 /* HorizontalSectionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C44E8CE32A930D75008A1115 /* HorizontalSectionsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		36EBD3152A83AF9500B6410C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36EBD3182A83AF9500B6410C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		36EBD31A2A83AF9500B6410C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C44E8CE32A930D75008A1115 /* HorizontalSectionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalSectionsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				36EBD3152A83AF9500B6410C /* Assets.xcassets */,
 				36EBD3172A83AF9500B6410C /* LaunchScreen.storyboard */,
 				36EBD31A2A83AF9500B6410C /* Info.plist */,
+				C44E8CE32A930D75008A1115 /* HorizontalSectionsViewController.swift */,
 			);
 			path = CollectionViewTest;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			files = (
 				36EBD3112A83AF9300B6410C /* ViewController.swift in Sources */,
 				36EBD30D2A83AF9300B6410C /* AppDelegate.swift in Sources */,
+				C44E8CE42A930D75008A1115 /* HorizontalSectionsViewController.swift in Sources */,
 				36B030CA2A887C79005B3890 /* ReorderableListViewController.swift in Sources */,
 				36B030C82A87FDF1005B3890 /* SimpleListViewController.swift in Sources */,
 				36EBD30F2A83AF9300B6410C /* SceneDelegate.swift in Sources */,
